@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "Tour Management System ",
+    "image": "../src/assets/tour-management-system-pic.png",
+    "brief": "The Tourist Guide site is an internet space for travelers. The site offers all kinds of information to travelers heading to attractions in World, so they prepare for their trip. The Tourist Guide site provides a rich description of many tourist attractions, so visitors know what to expect. The site showcases the local culture and food and highlights activities so that the visitor has a complete travel experience. The Tourist Guide site has everything you need to enjoy your trip to the world, from famous landmarks to less popular attractions.",
+    "techStack": ["React", "Javascript", "Firebase", "Tailwind CSS", "HTML5","MongoDB","Expressjs","Nodejs"],
+    "liveLink": "https://tourism-management-syste-465b0.web.app/",
+    "githubLink": "https://github.com/foysalhaque1/tour-management-system",
+    "challenges": [
+      "Slow loading times for high-resolution images .",
+      "Balancing rich UI animations with smooth performance was tricky",
+      "Balancing image quality with load times for attraction galleries"
+    ],
+    "improvements": [
+      "Utilize machine learning technology to generate personalized itineraries for users based on their preferences and previous behavior.",
+      "Include eco-stays, carbon-neutral travel, and responsible tourism practices.",
+      "Develop mobile app version"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Job Assessment System",
+    "image": "../src/assets/job-assessment-system.png",
+    "brief": "This online group-study platform successfully addresses collaborative learning issues through a real-time interface and experience available online with React.js, where students can create, submit and grade assignments in real time. Its interactive features, such as live editing and feedback tools, need complete JavaScript interactivity. The backend logic that takes care of individual assignment workflows, security, and permision levels is built with Node.js and Express.js.  ",
+    "description": "",
+    "techStack": ["React", "Javascript", "Firebase", "Tailwind CSS", "HTML5","MongoDB","Expressjs","Nodejs"],
+    "liveLink": "https://job-assessment-client-side.web.app/",
+    "githubLink": "https://github.com/foysalhaque1/job-assessment-system-client-side",
+    "challenges": [
+      "Implementing accurate fabric simulation in browser environment",
+      "Developing efficient pattern collision detection algorithms",
+      "Ensuring compatibility with various CAD file formats"
+    ],
+    "improvements": [
+      "Add 3D garment preview functionality",
+      "Implement AI-powered automatic pattern arrangement",
+      "Expand to support leather and other materials"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "StitchTrack - Production Line Monitoring",
+    "image": "/project-images/stitch-track.jpg",
+    "brief": "Real-time monitoring system for garment production lines with defect detection.",
+    "description": "StitchTrack uses computer vision to monitor production lines in real-time, identifying defects and efficiency bottlenecks. The system reduces quality control time by 40% and provides detailed analytics for continuous improvement.",
+    "techStack": ["React", "Javascript", "Firebase", "Tailwind CSS", "HTML5","MongoDB","Expressjs","Nodejs"],
+    "liveLink": "https://stitchtrack.io",
+    "githubLink": "https://github.com/yourusername/stitchtrack-client",
+    "challenges": [
+      "Processing real-time video feeds without browser performance issues",
+      "Training accurate defect detection models with limited sample data",
+      "Creating customizable alert systems for different defect types"
+    ],
+    "improvements": [
+      "Implement automatic quality grading system",
+      "Add predictive maintenance alerts",
+      "Expand to other manufacturing verticals"
+    ]
+  }
+]
