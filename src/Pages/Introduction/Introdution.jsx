@@ -4,7 +4,7 @@ import myPhoto from '../../assets/foysal haque.jpg'
 
 const Introdution = () => {
     return (
-        <div className=" mt-4  justify-between max-w-11/12 mx-auto flex flex-col lg:flex-row items-center gap-8 p-6 sm:p-8 lg:p-12 bg-base-200 rounded-2xl shadow-2xl">
+        <div id='home'  className=" mt-4  justify-between max-w-11/12 mx-auto flex flex-col lg:flex-row items-center gap-8 p-6 sm:p-8 lg:p-12 bg-base-200 rounded-2xl shadow-2xl">
 
            
 

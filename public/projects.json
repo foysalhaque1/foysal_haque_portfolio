@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Tour Management System ",
-    "image": "../src/assets/tour-management-system-pic.png",
+    "image": "https://i.ibb.co/2YdBjYCS/tour-management-system-pic.png",
     "brief": "The Tourist Guide site is an internet space for travelers. The site offers all kinds of information to travelers heading to attractions in World, so they prepare for their trip. The Tourist Guide site provides a rich description of many tourist attractions, so visitors know what to expect. The site showcases the local culture and food and highlights activities so that the visitor has a complete travel experience. The Tourist Guide site has everything you need to enjoy your trip to the world, from famous landmarks to less popular attractions.",
     "techStack": ["React", "Javascript", "Firebase", "Tailwind CSS", "HTML5","MongoDB","Expressjs","Nodejs"],
     "liveLink": "https://tourism-management-syste-465b0.web.app/",
@@ -21,41 +21,40 @@
   {
     "id": 2,
     "name": "Job Assessment System",
-    "image": "../src/assets/job-assessment-system.png",
+    "image": "https://i.ibb.co/ymjTZdb4/job-assessment-system.png",
     "brief": "This online group-study platform successfully addresses collaborative learning issues through a real-time interface and experience available online with React.js, where students can create, submit and grade assignments in real time. Its interactive features, such as live editing and feedback tools, need complete JavaScript interactivity. The backend logic that takes care of individual assignment workflows, security, and permision levels is built with Node.js and Express.js.  ",
     "description": "",
     "techStack": ["React", "Javascript", "Firebase", "Tailwind CSS", "HTML5","MongoDB","Expressjs","Nodejs"],
     "liveLink": "https://job-assessment-client-side.web.app/",
     "githubLink": "https://github.com/foysalhaque1/job-assessment-system-client-side",
     "challenges": [
-      "Implementing accurate fabric simulation in browser environment",
-      "Developing efficient pattern collision detection algorithms",
-      "Ensuring compatibility with various CAD file formats"
+      "Complex role management between assignment creators, submitters and graders",
+      "Slow loading with rich-text assignment submissions"
     ],
     "improvements": [
-      "Add 3D garment preview functionality",
+      "AI-assisted grading suggestions for consistency",
       "Implement AI-powered automatic pattern arrangement",
-      "Expand to support leather and other materials"
+      "Offline assignment drafting"
     ]
   },
   {
     "id": 3,
-    "name": "StitchTrack - Production Line Monitoring",
-    "image": "/project-images/stitch-track.jpg",
-    "brief": "Real-time monitoring system for garment production lines with defect detection.",
+    "name": "A-Gardening-Community-Resource-Hub",
+    "image": "https://i.ibb.co/p6ByjL7W/garden-project.png",
+    "brief": "This gardening platform addresses the problem of gardening information being scattered here and there, allowing a place to share expertise and collaborate to solve problems together in one location. It helps to unite the solitary gardener with community features and replaces unreliable online answers with solutions verified by the community. It provides urban gardening information by utilizing space-based growing guides and allows you to show your plant issues with real-time photo uploads. ",
     "description": "StitchTrack uses computer vision to monitor production lines in real-time, identifying defects and efficiency bottlenecks. The system reduces quality control time by 40% and provides detailed analytics for continuous improvement.",
     "techStack": ["React", "Javascript", "Firebase", "Tailwind CSS", "HTML5","MongoDB","Expressjs","Nodejs"],
-    "liveLink": "https://stitchtrack.io",
-    "githubLink": "https://github.com/yourusername/stitchtrack-client",
+    "liveLink": "https://assignment-10-client-sid-c244c.web.app/",
+    "githubLink": "https://github.com/foysalhaque1/A-Gardening-Community--Resource-Hub-client-side",
     "challenges": [
-      "Processing real-time video feeds without browser performance issues",
-      "Training accurate defect detection models with limited sample data",
-      "Creating customizable alert systems for different defect types"
+      "Handling image loading problem",
+      "Sometimes faced the server related issue"
+      
     ],
     "improvements": [
-      "Implement automatic quality grading system",
-      "Add predictive maintenance alerts",
-      "Expand to other manufacturing verticals"
+      "AI-powered plant doctor using image recognition for instant disease diagnosis",
+      "Expanded learning paths with video tutorials from master gardeners"
+     
     ]
   }
 ]
